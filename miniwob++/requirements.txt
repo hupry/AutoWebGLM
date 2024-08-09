@@ -1,4 +1,4 @@
-aiohttp==3.8.4
+aiohttp==3.10.2
 gymnasium==0.29.0
 lxml==4.9.3
 miniwob==1.0
